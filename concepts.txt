@@ -1,0 +1,2 @@
+prototype 1: webscraper for supermarkets that compares prices | robots.txt prohibited the scraping of the site - had to shut it down
+protoype 2: use maps API to upload photos of parking, kinda like Waze but for parking spots
