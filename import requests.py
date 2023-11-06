@@ -8,4 +8,5 @@ response = requests.get(url)
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, 'html.parser')
 
+    # txt
     
