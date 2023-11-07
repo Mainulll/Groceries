@@ -14,5 +14,8 @@
     "none"
   ],
   "author": "Minul Lokuliyana, Ashen Perera",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
