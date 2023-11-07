@@ -1,0 +1,18 @@
+{
+  "cwd": "C:\\Users\\minul\\GitProjects\\Groceries",
+  "type": [
+    "web"
+  ],
+  "name": "Parking App Test",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#0abf53",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
